@@ -1,5 +1,7 @@
 # Render Test in GitHub
 
+text-based diagrams rendering test in GitHub.
+
 ## PlantUML
 
 
@@ -37,3 +39,4 @@ flowchart TD
     G --> H
 
 ```
+
